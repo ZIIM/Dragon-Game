@@ -20,11 +20,11 @@ To run this application on your machine, follow these steps:
 
 This application is built using the following technologies and libraries:
 
--  
-- 
-- 
-- 
-- 
+- **"bootstrap": "^5.3.3"**
+- **"react-bootstrap": "^2.10.2"**
+-
+-
+-
 
 ## 🔄 Change Log
 
@@ -39,4 +39,3 @@ Plan your workflow efficiently with accurate time estimates for project completi
 - **PLACEHOLDER**: [Estimated time for completion]
 
 ## 🤝 Credit and Collaborations
-
